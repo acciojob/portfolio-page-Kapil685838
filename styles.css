@@ -16,16 +16,20 @@
 	border-radius: 50%;
 }
 
-#skills {
+#skills,
+#education,
+#projects{
 	margin: 50px 0;	
 }
 
 #skills h1,
+#education h1,
 #projects h1{
 	padding-bottom: 15px;
 }
 
 #skills h1 span,
+#education h1 span,
 #projects h1 span{
 	text-decoration: underline;
 }
@@ -33,7 +37,7 @@
 #projects ul{
 	padding-left:30px;
 }
-/*
+
 table, td, th{
 	border: 2px solid black;
 }
@@ -49,4 +53,3 @@ table {
 	text-align: center;
 	border-collapse: collapse;
 }
-*/
