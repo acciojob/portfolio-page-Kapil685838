@@ -1,4 +1,3 @@
-
 /* Your CSS Code here. */
 * {
 	margin: 0;
@@ -49,7 +48,6 @@ table th{
 
 table {
 	width: 100%;
-	padding: 0 50px;
 	text-align: center;
 	border-collapse: collapse;
 }
